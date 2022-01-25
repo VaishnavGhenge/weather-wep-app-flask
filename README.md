@@ -2,6 +2,8 @@ Weather App – An API (OpenWeatherMap) based weather web app, June 2021
 An API based weather web app which fetch current weather data like  from OpenWeatherMap’s – Current Weather Data API based on city name submitted.
 API URL - https://openweathermap.org/current
 
+
+-------------------------------------------------------------------------------------------------------------------------------------------
 Web App Screenshots
 
 In order to get current weather of any city enter its name - (API contains weather data over 2,00,000 cities all over thw world)
